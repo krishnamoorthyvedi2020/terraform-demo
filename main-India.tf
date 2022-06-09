@@ -5,8 +5,8 @@ terraform {
 #India - Mumbai region
 provider "aws" {
      region = "ap-south-1"
-     access_key = "AKIA5JZ3KH5CN4UQB4FP"
-     secret_key = "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"
+     access_key = "XXXXX"
+     secret_key = "XXXXX"
 }
 
 resource "aws_instance" "mumbai-ec2" {
